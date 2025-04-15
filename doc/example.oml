@@ -1,5 +1,11 @@
-https://www.zhihu.com/question/22363620
+系统指令:
+#include
+#import
+#export
+#define 
+
 对象，数组，字符串，数值
+
 
 文档包含
 
@@ -12,6 +18,8 @@ name:
     m3:14.0f;/./;.
 数组:
 name:1,2,3,"string";/./;.
+
+if :
 
 "
 L1:巴拉巴拉;
@@ -72,3 +80,19 @@ name:
     c:100,
     d:{}
  }
+
+#include 
+#include ./*.md
+
+#attributes:
+
+
+1,
+2,
+3,
+4:
+5.
+6.
+
+
+
